@@ -17,7 +17,7 @@ The BD9G101G is available in SOT-23-6(SSOP6) package.
 
 ----
 ### Where to Purchase?
-* Distributor Inventory: http://www.rohm.com/web/global/distribution/-/dinventory/BD9G101G-EVK/sample/0
+* http://www.rohm.com/web/global/distribution/-/dinventory/BD9G101G-EVK/sample/0
 
 ----
 ### DISCLAIMER
