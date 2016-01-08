@@ -4,10 +4,10 @@
 ----
 ### Description: 
 * The BD9G101G is switching regulator with integrated internal high-side 42V Power MOSFET.
-This IC provides 0.5A DC output in a small SOT-23 package.
-Operating frequency is fixed 1.5MHz, allowing the use of small inductor and ceramic capacitor.
-The components for phase compensation is built in. 
-The BD9G101G is available in SOT-23-6(SSOP6) package.
+* This IC provides 0.5A DC output in a small SOT-23 package.
+* Operating frequency is fixed 1.5MHz, allowing the use of small inductor and ceramic capacitor.
+* The components for phase compensation is built in. 
+* The BD9G101G is available in SOT-23-6(SSOP6) package.
 
 ----
 ### Repository Contents
