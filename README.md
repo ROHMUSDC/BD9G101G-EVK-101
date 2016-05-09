@@ -11,7 +11,7 @@
 
 ----
 ### Repository Contents
-* Application Note Folder: Contains Draft Version of EVK Application Note
+* User's Guide: Contains the User's Guide for this EVK
 * Design Files: Contains Schematic, BOM, and Gerber information for this EVK Board
 * Supplemental Info Folder: Contains General Presentation and HotPlugging Analysis for this EVK Board
 
